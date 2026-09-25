@@ -1,0 +1,138 @@
+{
+  "team": [
+    {
+      "id": "motunrayo-linda-idowu",
+      "name": "Motunrayo Linda Idowu",
+      "role": "Founder & Community Director",
+      "image": "",
+      "imageAlt": "Photo of Motunrayo Linda Idowu",
+      "bio": "Founder and Community Director of Girls Unplugged: Bloom & Glow Circle.",
+      "longBio": "Motunrayo created Girls Unplugged to give girls a space to connect, have honest conversations, discover opportunities and grow together.",
+      "responsibilities": [
+        "Community direction",
+        "Community programming",
+        "Member engagement",
+        "Partnerships and collaborations"
+      ],
+      "socials": {
+        "linkedin": "https://ng.linkedin.com/in/motunrayo-idowu-373330258",
+        "instagram": "https://www.instagram.com/tunraayo_idowu/"
+      }
+    },
+    {
+      "id": "team-member-2",
+      "name": "Team Member 2",
+      "role": "Community Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    },
+    {
+      "id": "team-member-3",
+      "name": "Team Member 3",
+      "role": "Programs Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    },
+    {
+      "id": "team-member-4",
+      "name": "Team Member 4",
+      "role": "Communications Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    },
+    {
+      "id": "team-member-5",
+      "name": "Team Member 5",
+      "role": "Community Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    },
+    {
+      "id": "team-member-6",
+      "name": "Team Member 6",
+      "role": "Partnerships Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    },
+    {
+      "id": "team-member-7",
+      "name": "Team Member 7",
+      "role": "Creative Team",
+      "image": "",
+      "imageAlt": "Photo placeholder",
+      "bio": "Placeholder team profile. Replace this name, role, bio and image with the real team member details.",
+      "longBio": "",
+      "responsibilities": [],
+      "socials": {}
+    }
+  ],
+  "teamIntro": {
+    "label": "Our people",
+    "title": "A community built with intention.",
+    "paragraphs": [
+      "Behind every conversation, activity, guest session, opportunity, and community moment is a group of people contributing their time, ideas, skills, and energy to make Girls Unplugged what it is.",
+      "We are growing this community carefully, keeping the girls at the heart of what we do and creating room for more people to contribute as the circle grows."
+    ]
+  },
+  "howWeWork": [
+    {
+      "number": "01",
+      "title": "Listen",
+      "description": "We pay attention to what girls actually need."
+    },
+    {
+      "number": "02",
+      "title": "Collaborate",
+      "description": "We bring different experiences and skills together."
+    },
+    {
+      "number": "03",
+      "title": "Create",
+      "description": "We turn ideas into useful activities, opportunities and resources."
+    },
+    {
+      "number": "04",
+      "title": "Grow",
+      "description": "We keep learning, improving and becoming better as a community."
+    }
+  ],
+  "founderSection": {
+    "label": "Founder",
+    "name": "Motunrayo Linda Idowu",
+    "role": "Founder & Community Director",
+    "image": "",
+    "imageAlt": "Founder photo",
+    "paragraphs": [
+      "Girls Unplugged started with a simple idea: girls should not have to navigate everything alone.",
+      "What began as a small online sisterhood has grown into a community where girls from different parts of Africa can connect, have honest conversations, celebrate one another, discover opportunities, and grow together."
+    ],
+    "quote": "A space does not have to start big to matter. Sometimes, it just has to start."
+  },
+  "joinTeam": {
+    "label": "Want to contribute?",
+    "title": "There is room for your voice too.",
+    "description": "Girls Unplugged is growing. If you have a skill, idea, experience, opportunity, or simply a genuine desire to support girls, there are different ways you can contribute.",
+    "buttonText": "Get involved",
+    "buttonLink": "get-involved.html"
+  }
+}
